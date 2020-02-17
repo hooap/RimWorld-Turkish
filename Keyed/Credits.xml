@@ -17,6 +17,8 @@
   <Credits_TitleCommunity>Topluluk gönüllüleri</Credits_TitleCommunity>
   <Credit_Tester>Tester</Credit_Tester>
   <Credit_ModDonation>Bağışçılar</Credit_ModDonation>
+  <Credit_WritingDonation>Metin bağışçıları</Credit_WritingDonation>
+
   <Credit_Moderator>Moderatör</Credit_Moderator>
   <Credit_WikiMaster>Vikipedi Yönetmeni</Credit_WikiMaster>
   
@@ -29,5 +31,3 @@
   <ThanksForPlaying>Oynadığınız için teşekkürler!</ThanksForPlaying>
 
 </LanguageData>
-
-<Credit_WritingDonation>Writing donor</Credit_WritingDonation>
